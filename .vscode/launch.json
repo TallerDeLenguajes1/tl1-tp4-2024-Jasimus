@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Juan/OneDrive/Escritorio/Facultad/3er año - 1er caut/taller de lenguajes I/tp4/tl1-tp4-2024-Jasimus",
+      "program": "c:/Users/Juan/OneDrive/Escritorio/Facultad/3er año - 1er caut/taller de lenguajes I/tp4/tl1-tp4-2024-Jasimus/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
